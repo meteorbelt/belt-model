@@ -1,0 +1,11 @@
+{
+  "name": "belt-model",
+  "description": "Provides Model prototype complete with schema validation and save method. For use with Meteor Belt applications",
+  "homepage": "https://github.com/meteorbelt/belt-model",
+  "author": "Kyle Finley <kyle@meteorbelt.com>",
+  "version": "0.1.0",
+  "git": "https://github.com/meteorbelt/belt-model.git",
+  "packages": {
+    "belt-schema": {}
+  }
+}
